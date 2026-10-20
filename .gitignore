@@ -1,0 +1,18 @@
+# Cloudflare 發布憑證（含 API Token，切勿上傳）
+cloudflare_pages.json
+
+# PyInstaller 執行檔與封裝執行環境（僅供本機備份）
+tea_admin.exe
+_internal/
+
+# 上傳與部署紀錄
+upload_log.txt
+deploy_status.json
+
+# 編輯器暫存
+.mimosa/
+
+# 系統檔
+Thumbs.db
+desktop.ini
+.DS_Store

@@ -1,0 +1,24 @@
+圓霖茶業｜快速使用說明
+正式網站：https://yuanlintea.com.tw
+
+開始使用
+1. 將整個資料夾複製到 Windows 電腦的本機磁碟並解壓縮；資料夾可以重新命名，但請不要只拿出 tea_admin.exe。
+2. 確認 tea_admin.exe、_internal、tea_data.json、site、cloudflare_pages.json 都在同一個資料夾內。
+3. 雙擊 tea_admin.exe 開啟後台。不必安裝 Python 或網站伺服器。
+4. 在「前台內容」修改網站資訊，在「商品與庫存」、「分類」、「精選」維護商品內容。
+5. 按「儲存並產生前台」。客戶版有 Cloudflare 設定檔時，自動發布預設啟用；請等「Cloudflare Pages 發布狀態」顯示「上傳成功」再關閉。
+6. 開啟 https://yuanlintea.com.tw 確認更新。若仍是舊畫面，按 Ctrl+F5 或用無痕視窗。
+
+網站聯絡資訊可在「前台內容」編輯：Facebook、電話、地址、Email、LINE 官方 ID 與營業時間。
+
+搬到另一台電腦
+請複製整個資料夾，包含 tea_admin.exe、_internal、tea_data.json、site、cloudflare_pages.json 和本說明文件。程式會使用 exe 所在資料夾內的設定與檔案，不依賴原桌面路徑。新電腦需要 Windows 與可連線 Cloudflare 的網際網路。
+
+重要安全提醒
+cloudflare_pages.json 含有可發布正式網站的 API Token。只交給受信任且有權發布網站的人，不要上傳公開網路或放在不安全的共用資料夾。設定檔遺失或外流時，請到 Cloudflare 撤銷舊 Token 並重新建立。
+
+備份與故障排除
+- 修改前備份 tea_data.json；重要圖片也請保留 site\assets。
+- 上傳失敗時檢查網路與 Token，並查看 upload_log.txt。
+- 不要刪除或單獨搬移 _internal、site、tea_data.json、cloudflare_pages.json。
+- 完整操作與架構說明請看同資料夾的 README.txt。

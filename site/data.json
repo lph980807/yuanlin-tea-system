@@ -1,0 +1,90 @@
+{
+  "site": {
+    "brand": "圓霖茶業",
+    "tagline": "日常也能喝到安靜、乾淨、回甘的好茶。",
+    "hero_title": "圓霖茶業",
+    "hero_text": "圓霖茶葉精選高山烏龍、紅茶、綠茶與季節茶款，提供各款茶品的特色、規格與現貨資訊，方便挑選適合日常品飲的茶。",
+    "facebook": "https://www.facebook.com/profile.php?id=61579410270539",
+    "phone": "0975-850-955｜07-385-2079",
+    "address": "高雄市三民區莊敬路194號（近家樂福）",
+    "email": "yuanlinlisa@gmail.com",
+    "line_id": "@195vurgg",
+    "business_hours": "週二、週三、週五、週六、週日 12:00–22:00（週一、週四公休）",
+    "footer": "歡迎瀏覽圓霖茶業茶品資訊，挑選適合日常品飲的茶款。",
+    "facebook_text": "Facebook",
+    "site_icon": "assets/site-icon.png"
+  },
+  "products": [
+    {
+      "id": "阿里山高山烏龍",
+      "name": "阿里山高山烏龍",
+      "category": "高山茶",
+      "featured": true,
+      "price": "NT$ 800 / 150g",
+      "stock": 80,
+      "summary": "清香柔順，帶有淡雅花香與回甘。",
+      "description": "海拔高、溫差大的茶區孕育出細緻香氣，適合日常熱泡，也很適合做冷泡茶。",
+      "main_image": "assets/optimized/1e135c08610ebe9d13af.jpg",
+      "featured_image": "",
+      "gallery": [
+        "assets/optimized/6a99d384c71b1b8c935e.jpg"
+      ],
+      "search_keys": "8xk7g8cjg8wuxu;4 cjg8t86"
+    },
+    {
+      "id": "蜜香紅茶",
+      "name": "蜜香紅茶",
+      "category": "紅茶",
+      "featured": true,
+      "price": "NT$ 700 / 150g",
+      "stock": 70,
+      "summary": "自然蜜香明顯，茶湯溫潤飽滿。",
+      "description": "帶有熟果與蜂蜜般的香氣，入口滑順，單喝舒服，也適合搭配甜點。",
+      "main_image": "assets/optimized/1e135c08610ebe9d13af.jpg",
+      "featured_image": "",
+      "gallery": [
+        "assets/optimized/6a99d384c71b1b8c935e.jpg"
+      ],
+      "search_keys": "au4vucj/6t86 cj/6t86"
+    },
+    {
+      "id": "四季春",
+      "name": "四季春",
+      "category": "綠茶",
+      "featured": true,
+      "price": "NT$ 600 / 150g",
+      "stock": 60,
+      "summary": "清新鮮爽，茶感明亮。",
+      "description": "茶湯清透，入口輕盈，帶有淡淡青香，適合喜歡清爽茶感的客人。",
+      "main_image": "assets/optimized/3a5c8b11d694dd9cad40.jpg",
+      "featured_image": "",
+      "gallery": [
+        "assets/optimized/6a99d384c71b1b8c935e.jpg"
+      ],
+      "search_keys": "4ul4tjp xu4t86"
+    },
+    {
+      "id": "冬片茶",
+      "name": "冬片茶",
+      "category": "",
+      "featured": true,
+      "price": "NT$ 500 / 150g",
+      "stock": 50,
+      "summary": "茶香高揚，口感細緻。",
+      "description": "冬季採製，香氣乾淨明確，入口細膩，適合做為季節精選展示商品。",
+      "main_image": "assets/optimized/1e135c08610ebe9d13af.jpg",
+      "featured_image": "",
+      "gallery": [
+        "assets/optimized/6a99d384c71b1b8c935e.jpg"
+      ],
+      "search_keys": "eulgk4t86 "
+    }
+  ],
+  "categories": [
+    "高山茶",
+    "紅茶",
+    "綠茶",
+    "季節茶"
+  ],
+  "category_images": {}
+}

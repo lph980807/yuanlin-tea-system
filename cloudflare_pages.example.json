@@ -1,0 +1,7 @@
+{
+  "account_id": "YOUR_CLOUDFLARE_ACCOUNT_ID",
+  "project_name": "yuanlin-tea",
+  "api_token": "YOUR_CLOUDFLARE_API_TOKEN",
+  "production_branch": "main",
+  "public_url": "https://example.com"
+}
